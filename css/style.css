@@ -1,0 +1,42 @@
+/* 
+Name: Ritika
+File: styles.css
+Purpose: Styling for Weather 
+*/
+
+
+body {
+font-family: Arial, sans-serif;
+background: #eef4ff;
+padding: 20px;
+text-align: center;
+}
+
+
+#inputSection {
+margin-bottom: 25px;
+}
+
+
+input {
+padding: 8px;
+width: 200px;
+}
+
+
+button {
+padding: 8px 15px;
+cursor: pointer;
+}
+
+
+#weatherOutput {
+margin-top: 30px;
+background: white;
+padding: 20px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 8px;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
